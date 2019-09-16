@@ -6,7 +6,9 @@ MATLAB function to plot a cube with a desired orientation and position. Adapted 
 
 Run `plot_tester.m` for an example of proper usage.
 
-plot_cube(r0, R0, l, clr, alpha, triad)
+--
+
+`plot_cube(r0, R0, l, clr, alpha, triad)`
 
 Inputs:
 * r0 : 3x1 vector that defines the cube origin, I_r0_IB (r0 with respect
