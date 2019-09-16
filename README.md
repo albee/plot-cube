@@ -1,5 +1,7 @@
 MATLAB function to plot a cube with a desired orientation and position. Adapted from a function by [Olivier](https://www.mathworks.com/matlabcentral/fileexchange/15161-plotcube).
 
+![](/img/cube1.png)
+
 # Usage
 
 Run `plot_tester.m` for an example of proper usage.
@@ -18,5 +20,3 @@ the body frame)
 * triad : 1 to plot the triad, 0 to turn it off.
 
 See plot_tester.m and plot_cube.m for additional details.
-
-![](/img/cube1.png)
